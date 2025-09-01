@@ -6,7 +6,7 @@
 
 body {
   width: 100%;
-  min-height: 100vh;
+  min-height: 940px;
   font-family: "Poppins", sans-serif;
   display: flex;
   align-items: center;
@@ -17,7 +17,6 @@ h1 {
   font-size: 2.25rem;
   font-weight: 600;
   color: #000000;
-  width: 548px;
   text-align: center;
 }
 
@@ -63,6 +62,8 @@ article {
 }
 article img {
   border-radius: 10px;
+  height: 160px;
+  width: 160px;
 }
 
 /* ---------------- Tablet (641px – 1024px) ---------------- */
