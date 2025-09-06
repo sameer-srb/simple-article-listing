@@ -1,5 +1,6 @@
 # 📰 Simple Article Listing
 Welcome to the **Simple Article Listin** Page project!
+
 A simple and responsive beginner-friendly web development project built with **HTML and CSS**, inspired by **DevChallenges**.
 
 ## 📌 Overview  
